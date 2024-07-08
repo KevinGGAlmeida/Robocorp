@@ -1,0 +1,31 @@
+{"when":1720456961,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=c:\\Users\\je_ma\\Documents\\Robocorp\\my-robot-order\\robot.yaml","comment":"at task environment setup"}
+{"when":1720456961,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.069s Context: \"Jessica Gomes Margarida\" \u003cKEVIN\\je_ma@Kevin\u003e [windows_amd64/Microsoft Windows [Version 10.0.22631.3737]]."}
+{"when":1720456961,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.009s Fresh [shared mode] holotree environment e120f4fd-2cfd-bf20-de63-75d974c35be0. (parent/pid: 20368/20684)"}
+{"when":1720456961,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.009s Holotree blueprint is \"0c950ae63c992a0e\" [windows_amd64 with 11 workers on 12 CPUs from \"conda.yaml\"]."}
+{"when":1720456961,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.143s Restore space from library [with 11 workers on 12 CPUs; with compression: true]."}
+{"when":1720456962,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.433s Fresh holotree done [with 11 workers on 12 CPUs]."}
+{"when":1720456962,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1720456962,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1720456962,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[7352:python.exe]"}
+{"when":1720456974,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 5 ... map[7352:python.exe 10408:chrome.exe 17868:chrome.exe 18564:node.exe 20236:chrome.exe]"}
+{"when":1720456975,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 5 to 10 ... map[4512:chrome.exe 7352:python.exe 7460:chrome.exe 7768:chrome.exe 10408:chrome.exe 10648:chrome.exe 17868:chrome.exe 18564:node.exe 18632:chrome.exe 20236:chrome.exe]"}
+{"when":1720457028,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 10 to 1 ... map[7352:python.exe]"}
+{"when":1720457028,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1720457028,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1720457029,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1720457144,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=c:\\Users\\je_ma\\Documents\\Robocorp\\my-robot-order\\robot.yaml","comment":"at task environment setup"}
+{"when":1720457144,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.073s Context: \"Jessica Gomes Margarida\" \u003cKEVIN\\je_ma@Kevin\u003e [windows_amd64/Microsoft Windows [Version 10.0.22631.3737]]."}
+{"when":1720457144,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.007s Fresh [shared mode] holotree environment e120f4fd-2cfd-bf20-de63-75d974c35be0. (parent/pid: 18680/10280)"}
+{"when":1720457144,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.007s Holotree blueprint is \"0c950ae63c992a0e\" [windows_amd64 with 11 workers on 12 CPUs from \"conda.yaml\"]."}
+{"when":1720457144,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.126s Restore space from library [with 11 workers on 12 CPUs; with compression: true]."}
+{"when":1720457145,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.399s Fresh holotree done [with 11 workers on 12 CPUs]."}
+{"when":1720457145,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1720457145,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1720457145,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[5612:python.exe]"}
+{"when":1720457156,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[5612:python.exe 18632:node.exe]"}
+{"when":1720457156,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 2 to 9 ... map[5612:python.exe 7324:chrome.exe 14020:chrome.exe 18632:node.exe 18668:chrome.exe 18900:chrome.exe 19316:chrome.exe 19356:chrome.exe 20952:chrome.exe]"}
+{"when":1720457201,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 4 ... map[5612:python.exe 18632:node.exe 18668:chrome.exe 19356:chrome.exe]"}
+{"when":1720457202,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 4 to 1 ... map[5612:python.exe]"}
+{"when":1720457202,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"RobocorpCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1720457202,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1720457203,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
